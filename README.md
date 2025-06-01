@@ -34,7 +34,7 @@ O programa, incluindo as bibliotecas utilizadas, foi desenvolvido e testado util
 
 ### Simulações
 
-Os códigos utilizados para executar as simulações estão no diretório [Simulações](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Simula%C3%A7%C3%B5es). Aqui estão 5 pastas com os arquivos correspondentes aos cenários simulados e uma com o nome **[geral](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Simula%C3%A7%C3%B5es/Geral)** contendo um código comum a todos os cenário utilizado para gerar alguns gráficos.
+Os códigos utilizados para executar as simulações estão no diretório [Simulações](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Simula%C3%A7%C3%B5es). Aqui estão 5 pastas com os arquivos correspondentes aos cenários simulados e uma com o nome **[geral](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Simula%C3%A7%C3%B5es/Geral)** contendo um código comum utilizado para gerar alguns gráficos.
 
 Dentro de cada diretório correspondente aos cenários existe um arquivo com o nome **SimulaçãoCenarioX.R**, em que o X corresponde ao cenário, podendo ir de 1 a 4. Além disso, também está disponibilizado um arquivo nomeado **simulation_results_scenarioX.RData** contendo uma lista com os diversos resultados gerados. Esse último arquivo foi disponibilizado para facilitar a checagem dessas saídas pois, a depender do *hardware* a ser utilizado na execução, todo o processo pode demorar algumas horas.
 
