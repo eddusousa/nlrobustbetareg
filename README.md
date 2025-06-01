@@ -48,8 +48,6 @@ Os códigos utilizados para executar as aplicações com dados simulados estão 
 
 #### Aplicações com dados reais
 
-[Aplicações com dados reais](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna)
-
 Os códigos utilizados para executar as aplicações com dados reais estão no diretório [Aplicações com dados reais](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna), onde é disponibilizado o arquivo **[Aplication-RealData-Tuna-SST.R](https://github.com/eddusousa/nlrobustbetareg/blob/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna/Aplication-RealData-Tuna-SST.r)** com o código.
 
 Os dados utilizados estão na pasta **[dados](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna/dados)**, e os arquivos **.Rdata** com todos os resultados gerados estão na pasta **[results](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna/results)**.
