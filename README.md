@@ -4,7 +4,7 @@ Este código foi desenvolvido por ocasião da dissertação de mestrado entitula
 
 Com o programa é possível replicar, nas mesmas condições, todos os experimentos, estudos de simulação e aplicações efetuadas por ocasião do referido trabalho, e obter os mesmos resultados.
 
-As funções principais foram desenvolvidas a partir de adaptações do código base da biblioteca [**robustbetareg**]( https://cran.r-project.org/web/packages/robustbetareg/index.html) do R.
+As funções principais do **[código fonte](https://github.com/eddusousa/nlrobustbetareg/blob/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/SourceCode.R)** foram desenvolvidas a partir de adaptações do código base da biblioteca [**robustbetareg**]( https://cran.r-project.org/web/packages/robustbetareg/index.html) do R.
 
 ## 🚀 Começando
 
