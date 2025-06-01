@@ -24,5 +24,5 @@ Explicar como executar os testes automatizados para este sistema.
 
 ## 🎁 Colaboração/Apoio
 
-* **[Terezinha Kessia de Assis Ribeiro](https://github.com/terezinharibeiro/)** como orientadora da dissertação de mestrado apoiou todo o desenvolvimento, incluindo a codificação dos experimentos e aplicações, além de dar apoio ténico e científico.
+* **[Terezinha Kessia de Assis Ribeiro](https://github.com/terezinharibeiro/)** como orientadora da dissertação de mestrado apoiou todo o desenvolvimento, incluindo a codificação dos experimentos e aplicações, além de fornecer orientações ténicas voltadas para a parte teórica.
 
