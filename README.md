@@ -8,7 +8,7 @@ As funções foram desenvolvidas com base no código da biblioteca [**robustbeta
 
 ## 🚀 Começando
 
-Não é exigido nenhum processo de instalação, bastando que os arquivos sejam baixados para o ambiente local para serem abertos e executados por meio do software R, cujas instruções para instalação e uso, além de outras informações, estão disponíveis em https://www.r-project.org/
+Não é exigido nenhum processo de instalação, bastando que os arquivos em **[Dissertação - Códigos e Resultados](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados)** sejam baixados para o ambiente local para serem abertos e executados por meio do software R, cujas instruções para instalação e uso, além de outras informações, estão disponíveis em https://www.r-project.org/
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
