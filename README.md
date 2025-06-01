@@ -40,11 +40,11 @@ Os códigos utilizados para executar as simulações estão no diretório [Simul
 
 Os códigos utilizados para executar as aplicações estão no diretório [Aplicações](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es)
 
-### Aplicações com dados simulados
+#### Aplicações com dados simulados
 
 [Aplicações com dados simulados](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%A3o%20com%20dados%20simulados)
 
-### Aplicações com dados reais
+#### Aplicações com dados reais
 
 [Aplicações com dados reais](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna)
 
