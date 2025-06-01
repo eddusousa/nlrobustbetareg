@@ -54,6 +54,9 @@ Os códigos utilizados para executar as aplicações com dados reais estão no d
 
 Os dados utilizados estão na pasta **[dados](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna/dados)**, e os arquivos **.Rdata** com todos os resultados gerados estão na pasta **[results](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es/Aplica%C3%A7%C3%B5es%20com%20dados%20reais/tuna/results)**.
 
+#### *observações
+É importante ressaltar que os códigos disponibilizados foram testados para as situações e cenários utilizados nos estudos de simulação e nas aplicações da dissertação. Para outras situações os códigos podem apresentar erros ou funcioname nto fora do esperado.
+
 ## ✒️ Autor
 
 * **[Eduardo de Sousa Carvalho](https://github.com/eddusousa)**
