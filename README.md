@@ -23,8 +23,8 @@ O programa, incluindo as bibliotecas utilizadas, foi desenvolvido e testado util
   * **FunSample_betareg**: função resposnável por geração de amostra aleatória a partir de um modelo cuja resposta segue uma distribuição beta. 
   * **bootstrap.std.error**: função responsável por calcular o erro padrão via *bootstrap*.
   * **starting.points**: função responsável por obter estimativas iniciais para o processo iterativo de estimação dos parametros.
-  * **bootstrap.wald.test**: função resposável por calcular o p-valor via *bootstrap* para o teste tipo-Wald.
-  * **select_tuning_constant**: funçãop responsável pelo processo orientado aos dados de seleção da constante de afinação.
+  * **bootstrap.wald.test**: função responsável por calcular o p-valor via *bootstrap* para o teste tipo-Wald.
+  * **select_tuning_constant**: função responsável pelo processo de seleção da constante de afinação.
   * **apply_spline**: função responsável por aplicar funções pré-definidas para "deslinearizar" a estrutura de regressão.
   * **apply_derivative**: função responsável por derivar a estrutura de regressão segundo a forma não linear escolhida.
   * **simulate_nlrobust**: função responsável por executar o processo de simulação para os cenários pré-definidos.
