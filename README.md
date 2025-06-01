@@ -1,16 +1,14 @@
 # Regressão beta não linear robusta
 
-Este código foi desenvolvido por ocasião da dissertação de mestrado entitulada "Regressão beta não linear robusta" apresentada como requisito parcial para obtenção do título de Mestre em Estatística. 
+Este código foi desenvolvido por ocasião da dissertação de mestrado entitulada **"Regressão beta não linear robusta"** apresentada como requisito parcial para obtenção do título de Mestre em Estatística. 
 
-Com o programa é possível replicar, nas mesmas condições, todos os experimentos, estudos de simulação e aplicações efetuadas por ocasião do referido trabalho.
+Com o programa é possível replicar, nas mesmas condições, todos os experimentos, estudos de simulação e aplicações efetuadas por ocasião do referido trabalho, e obter os mesmos resultados.
 
-As funções foram desenvolvidas com base no código da biblioteca **robustbetareg** do R, disponível em https://cran.r-project.org/web/packages/robustbetareg/index.html
-
-[**robustbetareg**]( https://cran.r-project.org/web/packages/robustbetareg/index.html)
+As funções foram desenvolvidas com base no código da biblioteca [**robustbetareg**]( https://cran.r-project.org/web/packages/robustbetareg/index.html) do R.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Não é exigido nenhum processo de instalação, bastando que os arquivos sejam baixados para o ambiente local para serem abertos e executados por meio do software R, cujas instruções para instalação e uso, além de outras informações, estão disponíveis em https://www.r-project.org/
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
