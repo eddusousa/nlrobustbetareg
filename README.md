@@ -16,7 +16,14 @@ O programa, incluindo as bibliotecas utilizadas, foi desenvolvido e testado util
 
 ## ⚙️ Executando
 
-Explicar como executar os testes automatizados para este sistema.
+* As funções relacionadas ao ajuste dos modelos estão no **[código fonte](https://github.com/eddusousa/nlrobustbetareg/blob/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/SourceCode.R)**. As principais funções disponíveis são:
+  * aaa
+
+[](https://github.com/eddusousa/nlrobustbetareg/blob/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/SourceCode.R)
+
+[](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Simula%C3%A7%C3%B5es)
+
+[](https://github.com/eddusousa/nlrobustbetareg/tree/main/Disserta%C3%A7%C3%A3o%20-%20C%C3%B3digos%20e%20Resultados/Aplica%C3%A7%C3%B5es)
 
 ## ✒️ Autor
 
