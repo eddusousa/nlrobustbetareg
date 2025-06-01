@@ -4,7 +4,7 @@ Este código foi desenvolvido por ocasião da dissertação de mestrado entitula
 
 Com o programa é possível replicar, nas mesmas condições, todos os experimentos, estudos de simulação e aplicações efetuadas por ocasião do referido trabalho, e obter os mesmos resultados.
 
-As funções foram desenvolvidas com base no código da biblioteca [**robustbetareg**]( https://cran.r-project.org/web/packages/robustbetareg/index.html) do R.
+As funções principais foram desenvolvidas a partir de adaptações do código base da biblioteca [**robustbetareg**]( https://cran.r-project.org/web/packages/robustbetareg/index.html) do R.
 
 ## 🚀 Começando
 
@@ -24,5 +24,5 @@ Explicar como executar os testes automatizados para este sistema.
 
 ## 🎁 Colaboração
 
-* **[Terezinha Kessia de Assis Ribeiro](https://github.com/eddusousa)**
+* **[Terezinha Kessia de Assis Ribeiro](https://github.com/terezinharibeiro/)**
 
